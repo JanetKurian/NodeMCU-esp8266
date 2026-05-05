@@ -1,0 +1,11 @@
+#ifndef __USER_CONFIG_H__
+#define __USER_CONFIG_H__
+
+// Minimal config - required by NON-RTOS SDK
+#define SYSTEM_PARTITION_OTA_SIZE              0x6A000
+#define SYSTEM_PARTITION_OTA_2_ADDR            0x81000
+#define SYSTEM_PARTITION_RF_CAL_ADDR           0xFB000
+#define SYSTEM_PARTITION_PHY_DATA_ADDR         0xFC000
+#define SYSTEM_PARTITION_SYSTEM_PARAMETER_ADDR 0xFD000
+
+#endif
