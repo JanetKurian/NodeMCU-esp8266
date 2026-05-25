@@ -1,0 +1,5 @@
+{
+  "version": "1.1",
+  "firmware": "https://raw.githubusercontent.com/JanetKurian/esp_mqtt_ota/main/firmware.bin"
+}
+
